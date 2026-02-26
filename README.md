@@ -1,2 +1,2 @@
-# farm-ads-text-classification
-Text classification using TF-IDF and dimensionality reduction (Chi2, SVD) with linear and tree-based machine learning models.
+# farm-ads-klasifikacija
+Projekat klasifikacije tekstualnih podataka (Farm Ads dataset) korišćenjem TF-IDF reprezentacije i redukcije dimenzionalnosti (Chi2 i SVD) uz primenu više klasifikacionih algoritama.
